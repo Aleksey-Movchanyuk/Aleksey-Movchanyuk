@@ -6,17 +6,7 @@ I also focus on data acquisition - extracting data from a wide range of sources:
 
 Outside of work I contribute to open-source projects I rely on day to day, and write about data engineering, automation, and the tools I use.
 
----
 
-### 🔧 Recent open-source contributions
-
-| Project | Pull Request | Result |
-|---|---|---|
-| [browserless](https://github.com/browserless/browserless) | [#5674](https://github.com/browserless/browserless/pull/5674) - `TOKEN_HEADER` opt-in setting to safely accept a token from the URL | Merged |
-| [browserless](https://github.com/browserless/browserless) | [#5616](https://github.com/browserless/browserless/pull/5616) - per-session CPU/memory monitoring (full process tree, not just the main process) | Merged, shipped in v3.0.0 |
-| [Great Expectations](https://github.com/fivetran/great_expectations) | [#12320](https://github.com/fivetran/great_expectations/pull/12320) - fixed a content-vs-id mismatch in `delete_expectation` | Merged |
-| [browserless](https://github.com/browserless/browserless) | [#5585](https://github.com/browserless/browserless/pull/5585) - fixed a stale debugger `localStorage` URL | Merged, shipped in v2.58.3 |
-| [browserless](https://github.com/browserless/browserless) | [#5594](https://github.com/browserless/browserless/pull/5594) - proper RFC 6455 close frame on session timeout | Merged, shipped in v2.57.1 |
 
 ---
 
@@ -32,6 +22,17 @@ More posts on my [Medium blog](https://medium.com/@alex_m_datatogo).
 
 - **SOA-Day 2010** (Kyiv) — "SOA-based data integration for building real-time data marts" — [full archive: program, press coverage, photos](https://github.com/Aleksey-Movchanyuk/conference-archive/tree/main/SOA-Day-2010)
 
+---
+
+### 🔧 Recent open-source contributions
+
+| Project | Pull Request | Result |
+|---|---|---|
+| [browserless](https://github.com/browserless/browserless) | [#5674](https://github.com/browserless/browserless/pull/5674) - `TOKEN_HEADER` opt-in setting to safely accept a token from the URL | Merged |
+| [browserless](https://github.com/browserless/browserless) | [#5616](https://github.com/browserless/browserless/pull/5616) - per-session CPU/memory monitoring (full process tree, not just the main process) | Merged, shipped in v3.0.0 |
+| [Great Expectations](https://github.com/fivetran/great_expectations) | [#12320](https://github.com/fivetran/great_expectations/pull/12320) - fixed a content-vs-id mismatch in `delete_expectation` | Merged |
+| [browserless](https://github.com/browserless/browserless) | [#5585](https://github.com/browserless/browserless/pull/5585) - fixed a stale debugger `localStorage` URL | Merged, shipped in v2.58.3 |
+| [browserless](https://github.com/browserless/browserless) | [#5594](https://github.com/browserless/browserless/pull/5594) - proper RFC 6455 close frame on session timeout | Merged, shipped in v2.57.1 |
 
 <!--
 **Aleksey-Movchanyuk/Aleksey-Movchanyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
