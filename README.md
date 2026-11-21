@@ -22,8 +22,8 @@ Outside of work I contribute to open-source projects I rely on day to day, and w
 
 ### ✍️ Articles
 
-- **[Which Upwork jobs end in a hire: a 7-question checklist vs. ML on 11,500 jobs](https://dou.ua/forums/topic/63372/)** - dou.ua *(Ukrainian; [English auto-translation](https://dou-ua.translate.goog/forums/topic/63372/?_x_tr_sl=uk&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp))*
 - **[Understanding MySQL Table Partitioning: Types and Examples](https://medium.com/@alex_m_datatogo/understanding-mysql-table-partitioning-types-and-examples-d094a77cc19c)** - Medium
+- **[Which Upwork jobs end in a hire: a 7-question checklist vs. ML on 11,500 jobs](https://dou-ua.translate.goog/forums/topic/63372/?_x_tr_sl=uk&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)** - dou.ua
 - **[Extracting and Visualizing Binance Data with Apache Airflow, Tableau, and Docker](https://medium.com/@alex_m_datatogo/extracting-and-visualizing-binance-data-with-apache-airflow-tableau-and-docker-part-i-2bf318c5b80e)** - Medium
 
 More posts on my [Medium blog](https://medium.com/@alex_m_datatogo).
