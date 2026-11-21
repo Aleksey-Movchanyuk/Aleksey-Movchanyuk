@@ -28,6 +28,10 @@ Outside of work I contribute to open-source projects I rely on day to day, and w
 
 More posts on my [Medium blog](https://medium.com/@alex_m_datatogo).
 
+### 🎤 Speaking
+
+- **SOA-Day 2010** (Kyiv) — "SOA-based data integration for building real-time data marts" ([program](https://web.archive.org/web/20160415072734/http://itdirector.org.ua/itforum/meropr/SOA-Day/Programa.php), [press coverage](https://web.archive.org/web/20150419025007/http://atrex.ru/press/p52894.html))
+
 
 <!--
 **Aleksey-Movchanyuk/Aleksey-Movchanyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
