@@ -30,7 +30,7 @@ More posts on my [Medium blog](https://medium.com/@alex_m_datatogo).
 
 ### 🎤 Speaking
 
-- **SOA-Day 2010** (Kyiv) — "SOA-based data integration for building real-time data marts" ([program](https://web.archive.org/web/20160415072734/http://itdirector.org.ua/itforum/meropr/SOA-Day/Programa.php), [press coverage](https://web.archive.org/web/20150419025007/http://atrex.ru/press/p52894.html))
+- **SOA-Day 2010** (Kyiv) — "SOA-based data integration for building real-time data marts" — [full archive: program, press coverage, photos](https://github.com/Aleksey-Movchanyuk/conference-archive/tree/main/SOA-Day-2010)
 
 
 <!--
