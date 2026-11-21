@@ -21,6 +21,7 @@ More posts on my [Medium blog](https://medium.com/@alex_m_datatogo).
 ### 🎤 Speaking
 
 - **SOA-Day 2010** (Kyiv) — "SOA-based data integration for building real-time data marts" — [full archive: program, press coverage, photos](https://github.com/Aleksey-Movchanyuk/conference-archive/tree/main/SOA-Day-2010)
+- **DEV Labs 2013** (Luxoft "Soft Labs" online conference) — "Big Data & Oracle Technologies" — [full archive: speaker list, agenda, slides](https://github.com/Aleksey-Movchanyuk/conference-archive/tree/main/DevLabs-SoftLabs-2013)
 
 ---
 
