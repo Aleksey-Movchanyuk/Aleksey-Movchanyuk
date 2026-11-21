@@ -2,7 +2,7 @@
 
 I'm a Senior Data Engineer specializing in data warehousing, BI, and ETL - building data platforms with PostgreSQL, Citus (columnar), DuckDB, BigQuery, Airflow, dbt, and Tableau, with contributions to Great Expectations for data quality.
 
-I also focus on data acquisition - extracting data from a wide range of sources: web scraping, parsing and extracting data from documents (PDF and other formats), and browser automation with tools like Browserless, Playwright, and others.
+I also focus on data acquisition - extracting data from a wide range of sources: web scraping, gRPC (real-time blockchain event streaming), parsing and extracting data from documents (PDF and other formats), and browser automation with tools like Browserless, Playwright, and others.
 
 Outside of work I contribute to open-source projects I rely on day to day, and write about data engineering, automation, and the tools I use.
 
